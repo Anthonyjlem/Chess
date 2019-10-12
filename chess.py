@@ -1,5 +1,3 @@
-#Make generate_all_legal_moves quicker!
-
 from chessPieces import *
 import pygame
 import sys #For sys.exit()
